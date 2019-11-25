@@ -1,4 +1,6 @@
 iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,bank_name,bank_logo,bank_url,bank_phone,bank_city
+
+220000,220013,,,mir,,debit,,RU,NSPK Russia ("MIR" card),,www.mironline.ru,+78001005464,Moscow
 341142,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,,
 342562,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,,
 360218,,,,diners,Diners Club International,credit,,EC,DINERS CLUB DEL ECUADOR S.A.,,www.dinersclub.com.ec,+593 2 297 3100,Quito
